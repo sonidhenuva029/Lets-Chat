@@ -1,0 +1,27 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #b2a0da, #b2a0da, #b2a0da, #eba6ed, #e5c3e6);
+}
+
+.header
+{
+	color: white;font-family:'Times New Roman', Times, serif;font-size: 45px
+}
+.header img
+{
+	width: 80px;margin-left: -15px;
+}
+
+.login_div
+{
+	background: rgba(255,255,255,0.8);
+    float: none;
+    border-radius: 15px;
+    border-style: dashed;
+}
